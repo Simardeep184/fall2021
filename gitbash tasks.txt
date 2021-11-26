@@ -1,0 +1,48 @@
+https://github.com/Simardeep184/fall2021.git
+
+3. git config --global user.email "sharma1227@gmail.com"
+
+4. git config --global user.name "adityasharma1011"
+cd website
+
+5. git init   
+
+   This would initialize your local repository
+
+  6. ls -la 
+
+   This would show you the .git folder 
+
+  7. git add .
+
+   The file is in staging area 
+
+  8. git status 
+
+  9. git commit -m "added my first script"
+
+  
+
+  
+
+  
+
+	10. go to github.com 
+
+  10.a ( create a repository )
+
+	10.b ( create a personal access token ) 
+
+      
+
+  
+
+  11. Now go back to your git bash 
+
+  12. git remote add origin https://github.com/Simardeep184/fall2021.git
+
+  13. git remote -v
+
+  
+
+  14. git push -u origin master
